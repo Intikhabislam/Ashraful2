@@ -1,0 +1,46 @@
+#calculator{
+    
+    border: 2px solid rgb(19, 19, 18);
+    border-radius: 10px;
+    width: 325px;
+    height: 87vh;
+    margin:2px 2px 2px 2px;
+    padding: 10px;
+    background-color: #ee0808;
+    box-shadow:5px 5px  5px 5px rgb(29, 29, 29);
+    background-image: url('/WhatsApp\ Image\ 2023-12-12\ at\ 2.23.06\ PM.jpeg');
+    
+}
+h1{
+    margin-left: 100px;
+    color:#c71fa6;
+}
+
+#display{
+    margin: 10px;
+    width: 90%;
+    font-size: 45px;
+    border-radius: 5px;
+    color: rgb(239, 243, 8);
+    background-color: transparent;
+    boder: 2px solid yellow;
+    box-shadow: 3px 3px  3px 3px rgb(56, 3, 45);
+}
+
+.btn-cont{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+button{
+    width: 80px;
+    height: 65px;
+    margin: 3px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: rgb(225, 255, 0);
+    font-size: 27px;
+    box-shadow: 1.5px 1.5px  1.5px 1.5px rgb(56, 3, 45);
+    font-weight: 500;
+}
